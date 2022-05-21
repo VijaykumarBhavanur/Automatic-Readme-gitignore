@@ -1,3 +1,12 @@
+# All extra files created by eclipse are ignored
+.classpath 
+.settings/ 
+bin/
+.project       
+
+
+
+
 # Compiled class file
 *.class
 

@@ -1,1 +1,1 @@
-# Automatic-Readme-gitignore
+Added Readme & gitignore Automaticaly
